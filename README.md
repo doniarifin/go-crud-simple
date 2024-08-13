@@ -1,2 +1,2 @@
 # go-crud-simple
-simple crud Go with mongoDB
+simple crud Go with mongoDB Atlas
